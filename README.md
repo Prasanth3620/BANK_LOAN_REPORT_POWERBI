@@ -6,7 +6,7 @@ This project provides an interactive Power BI dashboard analyzing loan data from
 - **Dashboard 2: Overview**
 - **Dashboard 3: Details**
 
-Each section is interactive and dynamically filters based on user selections (e.g., selecting a state, term, or loan status).
+Each section is interactive and dynamically filters based on user selections (e.g., selecting a state).
 
 ---
 
