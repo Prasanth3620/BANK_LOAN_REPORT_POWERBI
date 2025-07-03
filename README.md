@@ -101,7 +101,7 @@ A detailed table offering a snapshot of each loan, including:
 - Financial metrics like DTI, interest, funded and received amounts
 - Payment and issue timelines
 
-###  Objective
+##  Objective
 
 To enable users to:
 - Explore loan performance
